@@ -1,5 +1,5 @@
 
-# Google_Ads Dag
+# IMAP Email attachment to S3 Dag
 
 The purpose of this dag is to get a specifc email attachment and upload it S3 each day.
 
